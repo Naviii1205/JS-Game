@@ -21,7 +21,7 @@ const primerapregunta = function () {
                 carne()
                 break
             default:
-                alert("lololo")
+                alert("Respuesta no valida")
         }
         primerarespuesta = parseInt(prompt("Elije una opcion: \n 1-Pollo al Curry \n 2-Pides Pizza a Domicilio \n 3-Carne con Vegetales al Horno\n 4-No cocinas se acaba el juego"))
     }
